@@ -10,6 +10,8 @@ namespace ThanksCardClient.ViewModels
 {
     public class DepartmentCreateViewModel : BindableBase, INavigationAware
     {
+
+        //test for push
         private readonly IRegionManager regionManager;
 
         #region DepartmentProperty
